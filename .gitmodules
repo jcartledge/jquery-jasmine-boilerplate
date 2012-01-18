@@ -1,0 +1,9 @@
+[submodule "spec/lib/jasmine-jquery"]
+	path = spec/lib/jasmine-jquery
+	url = https://github.com/velesin/jasmine-jquery.git
+[submodule "spec/lib/jasmine-event-spy"]
+	path = spec/lib/jasmine-event-spy
+	url = git://gist.github.com/1384835.git
+[submodule "spec/lib/jasmine"]
+	path = spec/lib/jasmine
+	url = https://github.com/pivotal/jasmine.git
